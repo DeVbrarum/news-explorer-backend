@@ -1,6 +1,9 @@
 # News explorer
 Este proyecto es una API construida con Node.js y Express que permite a los usuarios interactuar con una plataforma de gestión de artículos de noticias llamada "News explorer". Los usuarios pueden crear perfiles, buscar artículos de noticias, guardar el artículo y eliminar el artículo. Utiliza MongoDB para el almacenamiento de datos, facilitando la gestión eficiente y la persistencia de la información.
 
+## Enlace a la Pagina Web
+https://www.newsexpo.ignorelist.com/
+
 ## Tecnologías Utilizadas
 
 - Node.js
